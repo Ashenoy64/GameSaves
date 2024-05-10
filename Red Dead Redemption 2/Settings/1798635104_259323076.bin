@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__fwuiDynamicSettingsBlob>
+  <version value="3" />
+  <map>
+    <Item key="2380882009" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="3063403026" type="rage__fwuiValueInt">
+      <value value="-1" />
+    </Item>
+    <Item key="3203546566" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="3452491822" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="4390955698" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="4416828844" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="4880090739" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="5393804655" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="5657976027" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+  </map>
+</rage__fwuiDynamicSettingsBlob>

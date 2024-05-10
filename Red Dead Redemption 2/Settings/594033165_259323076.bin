@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rage__fwuiDynamicSettingsBlob>
+  <version value="2" />
+  <map>
+    <Item key="773690719" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="1449795695" type="rage__fwuiValueBool">
+      <value value="true" />
+    </Item>
+    <Item key="2027918273" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="2542685580" type="rage__fwuiValueInt">
+      <value value="1" />
+    </Item>
+    <Item key="3137085535" type="rage__fwuiValueUInt">
+      <value value="5" />
+    </Item>
+    <Item key="3596543716" type="rage__fwuiValueUInt">
+      <value value="4" />
+    </Item>
+    <Item key="3600659779" type="rage__fwuiValueUInt">
+      <value value="1" />
+    </Item>
+    <Item key="3779085753" type="rage__fwuiValueUInt">
+      <value value="1" />
+    </Item>
+    <Item key="3931579038" type="rage__fwuiValueUInt">
+      <value value="0" />
+    </Item>
+    <Item key="4258800294" type="rage__fwuiValueUInt">
+      <value value="0" />
+    </Item>
+    <Item key="4268756525" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="4287011984" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="4619379908" type="rage__fwuiValueUInt">
+      <value value="5" />
+    </Item>
+    <Item key="4692890947" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+    <Item key="4735528611" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="4790836950" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="4802764221" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="4962588767" type="rage__fwuiValueUInt">
+      <value value="2" />
+    </Item>
+    <Item key="5085314136" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="5155437622" type="rage__fwuiValueUInt">
+      <value value="0" />
+    </Item>
+    <Item key="5212568539" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="5558489580" type="rage__fwuiValueUInt">
+      <value value="5" />
+    </Item>
+    <Item key="5741094667" type="rage__fwuiValueUInt">
+      <value value="0" />
+    </Item>
+    <Item key="5865078359" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="6054110582" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+    <Item key="6175185320" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+    <Item key="6221405049" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="6444883140" type="rage__fwuiValueUInt">
+      <value value="2" />
+    </Item>
+    <Item key="6527232273" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="6595369249" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="7040783953" type="rage__fwuiValueUInt">
+      <value value="5" />
+    </Item>
+    <Item key="7179357497" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+    <Item key="7255429336" type="rage__fwuiValueBool">
+      <value value="false" />
+    </Item>
+    <Item key="7424181974" type="rage__fwuiValueUInt">
+      <value value="4" />
+    </Item>
+    <Item key="7536404955" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+    <Item key="8175720256" type="rage__fwuiValueUInt">
+      <value value="0" />
+    </Item>
+    <Item key="8661651870" type="rage__fwuiValueUInt">
+      <value value="7" />
+    </Item>
+  </map>
+</rage__fwuiDynamicSettingsBlob>

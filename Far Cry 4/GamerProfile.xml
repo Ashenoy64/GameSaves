@@ -1,0 +1,34 @@
+<GamerProfile>
+	<SoundProfile MusicEnabled="1" MasterVolume="100" Language="english" />
+	<ProfileSpecificGameProfile Sensitivity="1" MouseAcceleration="1" MouseAccelerationOn="0" MouseInvert_y="0" MouseInvert_y_Flying="0" MouseLookSensitivity="0.989811" Invert_x="0" Invert_y="0" Invert_y_Flying="1" Swap_Triggers="0" Flip_Triggers="0" InvertSticks="0" DefaultFlickFireDirection_y="0" ControllerLayoutVehicle="0" ControllerLayoutBuzzer="0" UseMouseSmooth="0" Smoothness="1" Smoothness_Ironsight="1" HelpCrosshair="1" Gamepad_vibration="1" UseRoadSignHilight="1" SubtitlesLanguage="english" TaggingEnabled="1" WikiUpdatedEnabled="0" CollectibleUpdatedEnabled="1" TutorialUpdatedEnabled="1" ObjectiveReminderEnabled="1" CraftingTipsEnabled="1" DisplayXPEnabled="1" DetectionIndicatorEnabled="1" HitIndicatorEnabled="1" ExplosiveIndicatorEnabled="1" MapIndicatorEnabled="1" HealthIndicatorEnabled="1" CrouchIndicatorEnabled="1" KarmaIndicatorEnabled="1" AmmoIndicatorEnabled="1" MinimapOpacity="2" LootReadoutEnabled="1" CoopPartnerIndicatorEnabled="1" HudIndicatorsEnabled="1" DisableLootAnimations="0" DisableHighLighting="0" CameraTagging="1" CoopFriendlyFire="0" UseAmbx="0" GamepadFeedbackLayout="0" InteractionHUDFeedbacksEnabled="1" Autosave="1" Machete="0" DrivingAssistEnabled="1" DifficultyLevel="1" IronsightToggleMode="0" ShowPVPTips="1" ShowPVPTimer="1" ShowPVPScorebar="1" ShowPVPPlayerTags="1" ShowPVPObituaryMessages="1" ShowPVPNotifications="1" ShowPVPMasterVoiceToggle="1" ShowPVPFactionPowerUpIcons="1" ShowPVPPlayerNames="1" PlayPVPIntroVideo="1" HasVisitedCoopMenu="0" SelectedLanguage="english" Coop_Friends_Only="0" DrivingAutoAimEnabled="1">
+		<FireConfig QualitySetting="VeryHigh" />
+		<CompressedClasses />
+		<Statistics>
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+			<Stat Value="0" />
+		</Statistics>
+	</ProfileSpecificGameProfile>
+	<RenderProfile AntiAliasingMode="4" UseTrippleBuffering="0" VSyncMode="1" UseMotionBlur="1" SSAOLevel="2" EnableNvidiaPCSS="0" GodRaysLevel="0" FurLevel="1" TreeTessellationLevel="0" Version="1" AlphaToCoverage="1" ResolutionX="1920" ResolutionY="1080" Quality="high" QualityEditor="editor_ps3" Fullscreen="1" Borderless="0" UseD3D11="1" WidescreenLetterbox="0" UseWidescreenFOV="1" FOVScaleFactor="1" AspectRatio="0" VSync="0" VSyncWindow="0" RefreshRate="0" DisableLoadingMip0="0" GPUMaxBufferedFrames="0" ShowFPS="0" Brightness="1" Contrast="1" CalibrationScreensShown="0" GammaRamp="1" AllowAsynchShaderLoading="1" SafeFrameAreaWidth="0.85" SafeFrameAreaHeight="0.85">
+		<CustomQuality>
+			<quality ResolutionX="1280" ResolutionY="720" OtherQuality="low" EnvironmentQuality="low" AntiPortalQuality="default" PortalQuality="default" PostFxQuality="low" TextureQuality="low" WaterQuality="low" DepthPassQuality="low" VegetationQuality="low" TerrainQuality="low" GeometryQuality="low" LightingQuality="high" ShadowQuality="low" ShadowCinematicQuality="low" EditorQuality="default" Hdr="1" HdrFP32="0" ReflectionHdr="1" EnableVertexBinding="1" id="custom" />
+		</CustomQuality>
+	</RenderProfile>
+	<NetworkProfile VoiceChatEnabled="1" CustomMapMaxUploadRateInBitsOnline="10240000" OnlineEnginePort="9000" OnlineServicePort="9001" FileTransferHostPort="9002" FileTransferClientPort="9003" LanHostBroadcastPort="9004" LanClientBroadcastPort="9005" ScanFreePorts="1" ScanPortRange="1000" ScanPortStart="9000" SessionProvider="" MaxUploadInbpsOnline="10240000">
+		<Accounts />
+	</NetworkProfile>
+	<GameProfile />
+	<RealTreeProfile Quality="Ultra" />
+	<EngineProfile>
+		<PhysicConfig QualitySetting="VeryHigh" />
+		<QcConfig GatherFPS="1" GatherAICnt="1" GatherDialogs="0" IsQcTester="0" />
+		<InputConfig />
+		<ZoneConfig />
+	</EngineProfile>
+</GamerProfile>
