@@ -1,0 +1,10 @@
+{
+    "GraphicsTextureQuality": 3,
+    "DisplayWindowType": 1,
+    "DisplayFullscreenWidth": 1920,
+    "DisplayFullscreenHeight": 1080,
+    "DisplayRefreshRateNumerator": 60,
+    "DisplayRefreshRateDenominator": 1,
+    "DisplayVSync": 1,
+    "DisplayGamma": 50
+}
