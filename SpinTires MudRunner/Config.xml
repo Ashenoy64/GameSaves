@@ -1,0 +1,18 @@
+<Config Version="20151004">
+	<System
+		Height="900"
+		Maximized="false"
+		Width="1600"
+		Windowed="false"
+		WorkingDirectory="C:/Games/Spintires MudRunner"
+		Adapter="0"
+		CrossplayEnabled="false"
+	/>
+	<MediaPath Path="Media.zip" />
+	<MediaPath Path="_dlc_valley.zip" />
+	<MediaPath Path="_dlc_ridge.zip" />
+	<MediaPath Path="_dlc_usa.zip" />
+	<MediaPath Path="_dlc_oldtimers.zip" />
+	<MediaPath DoPrepend="true" MountPoint="_t/" Path="TextureCache.zip" />
+	<MediaPath DoPrepend="true" MountPoint="_m/" Path="MeshCache.zip" />
+</Config>
